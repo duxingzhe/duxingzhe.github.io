@@ -5,19 +5,58 @@
         <description>Luxuan's Github - Peter Lu</description>
         <link>http://duxingzhe.github.io</link>
         <atom:link href="http://duxingzhe.github.io/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 27 Mar 2017 15:07:06 +0800</lastBuildDate>
-        <pubDate>Mon, 27 Mar 2017 15:07:06 +0800</pubDate>
+        <lastBuildDate>Tue, 28 Mar 2017 13:51:29 +0800</lastBuildDate>
+        <pubDate>Tue, 28 Mar 2017 13:51:29 +0800</pubDate>
         <ttl>60</ttl>
 
 
         <item>
-                <title>Android NDK</title>
-                <description>&lt;p&gt;#H21&lt;/p&gt;
+                <title>Android NDK Episode 5</title>
+                <description>&lt;h1&gt;Android NDK: From Elementary to Expert Epsiode 5
 
+
+
+
+&lt;/h1&gt;
 </description>
                 <link>http://duxingzhe.github.io/2017/03/27/Android-NDK</link>
                 <guid>http://duxingzhe.github.io/2017/03/27/Android-NDK</guid>
                 <pubDate>Mon, 27 Mar 2017 00:00:00 +0800</pubDate>
+        </item>
+
+        <item>
+                <title>Profile</title>
+                <description>&lt;h1&gt;Briefly Introduction&lt;/h1&gt;
+
+&lt;h4&gt;Education background&lt;/h4&gt;
+
+&lt;p&gt;Undergraduate&lt;/p&gt;
+
+&lt;h4&gt;Name&lt;/h4&gt;
+
+&lt;p&gt;Lu Xuan&lt;/p&gt;
+
+&lt;h4&gt;Country&lt;/h4&gt;
+
+&lt;p&gt;China(People’s Republic of China)&lt;/p&gt;
+
+&lt;h4&gt;Current Location&lt;/h4&gt;
+
+&lt;p&gt;Guangzhou, Guangdong&lt;/p&gt;
+
+&lt;h4&gt;Hobby&lt;/h4&gt;
+
+&lt;p&gt;English, Mathematics, Assassin’s Creed, Watch dogs, Military Combat Skills&lt;/p&gt;
+
+&lt;h4&gt;Current Duty&lt;/h4&gt;
+
+&lt;p&gt;Android Developer: Leisure Game, File Manager&lt;/p&gt;
+
+&lt;p&gt;Translator: AlphaGo&lt;/p&gt;
+</description>
+                <link>http://duxingzhe.github.io/2017/03/12/Profile</link>
+                <guid>http://duxingzhe.github.io/2017/03/12/Profile</guid>
+                <pubDate>Sun, 12 Mar 2017 00:00:00 +0800</pubDate>
         </item>
 
 
